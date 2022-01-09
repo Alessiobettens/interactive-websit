@@ -1,0 +1,312 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'oxygen', sans-serif;
+    background-image: url(images/achtergrond.jpg);
+    background-attachment: fixed;
+}
+
+
+.logo {
+    margin-top: -100px;
+    margin-left: 60px;
+    border-image: 20px;
+}
+
+.pijltje {
+    text-align: center;
+}
+
+
+
+.pijltje2 {
+    text-align: center;
+
+}
+
+
+
+.pijltje3 {
+    text-align: center;
+}
+
+
+
+.header {
+    width: 100%;
+    height: 100px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.navigation ul {
+    margin: 30px;
+    text-decoration: antiquewhite;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline-width: medium;
+    background-color: rgba(10, 232, 248, 0.863);
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(10, 26, 250);
+
+}
+
+.navigation ul li {
+    display: inline-block;
+    margin-right: 120px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+.hero {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.hero-text h1 {
+    font-size: 75px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.familie {
+    text-align: center;
+    font-size: large;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.papa {
+    text-align: left;
+    margin-right: 100px;
+    margin-left: 800px;
+    margin-top: 240px;
+}
+
+.Michel {
+    margin-top: -250px;
+    margin-right: 800px;
+    margin-left: 80px;
+}
+
+
+.mama {
+    text-align: left;
+    margin-right: 800px;
+    margin-left: 80px;
+    margin-top: 200px;
+}
+
+.Rosa {
+    margin-top: -370px;
+    margin-left: 800px;
+    margin-right: 130px;
+}
+
+
+
+
+
+.school {
+    text-align: center;
+    font-size: large;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.kleuterschool {
+    text-align: left;
+    margin-right: 80px;
+    margin-left: 780px;
+    margin-top: 200px;
+}
+
+
+.trip {
+    margin-right: 780px;
+    margin-left: 80px;
+    margin-top: -300px;
+}
+
+.lagere school {
+    text-align: left;
+    margin-right: 780px;
+    margin-left: 80px;
+    margin-top: 200px;
+}
+
+.mop {
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.SGI {
+    text-align: left;
+    margin-right: 780px;
+    margin-left: 80px;
+    margin-top: 230px;
+}
+
+.lennik {
+    margin-right: 80px;
+    margin-left: 780px;
+    margin-top: -360px;
+}
+
+.Ninove {
+    text-align: left;
+    margin-right: 120px;
+    margin-left: 800px;
+    margin-top: 220px;
+}
+
+.kunst {
+    margin-right: 780px;
+    margin-left: 100px;
+    margin-top: -435px;
+}
+
+.zes {
+    text-align: left;
+    margin-right: 780px;
+    margin-left: 80px;
+    margin-top: 220px;
+}
+
+.slang {
+    margin-right: 100px;
+    margin-left: 780px;
+    margin-top: -200px;
+}
+
+.Gip {
+    text-align: left;
+    margin-right: 700px;
+    margin-left: 80px;
+    margin-top: -310px;
+}
+
+.Architect {
+    text-align: left;
+    margin-right: 80px;
+    margin-left: 780px;
+    margin-top: 200px;
+}
+
+.teken {
+    margin-right: 780px;
+    margin-left: 80px;
+    margin-top: -300px;
+}
+
+.multi {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.Multimedia {
+    text-align: center;
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+
+
+.hobby {
+    text-align: center;
+    font-size: large;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.Voetbal {
+    text-align: left;
+    margin-right: 90px;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+
+.schepdaal {
+    margin-right: 800px;
+    margin-left: 80px;
+    margin-top: -320px;
+}
+
+
+.Zwemmen {
+    text-align: left;
+    margin-right: 820px;
+    margin-left: 70px;
+    margin-top: 250px;
+}
+
+.zwem {
+    margin-right: 90px;
+    margin-left: 700px;
+    margin-top: -200px;
+}
+
+
+.WKNWB {
+    text-align: left;
+    margin-right: 90px;
+    margin-left: 800px;
+    margin-top: 250px;
+}
+
+.velo {
+    margin-top: -450px;
+    margin-right: 800px;
+    margin-left: 80px;
+}
+
+.accordion {
+    background-color: none;
+    color: rgb(3, 3, 3);
+    cursor: pointer;
+    padding: 18px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 30px;
+    transition: 0.4s;
+}
+
+
+
+.panel {
+    padding: 18px;
+    display: none;
+    overflow: hidden;
+}
+
+
+
+
+@media (min-widht: 480px) {
+    a {
+        /*tablet & desktop version */
+        margin-right: 20px;
+    }
+
+    .why div {
+        /* tablet version */
+        width: 40%;
+    }
+}
